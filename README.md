@@ -1,1 +1,1 @@
-# fairystar
+# fairy-and-star
